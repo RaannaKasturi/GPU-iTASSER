@@ -1,2 +1,3 @@
-# GPU-iTASSER
-testing in progress
+# iTASSER
+Jupyter Notebook for iTASSER
+Works faster with GPU
